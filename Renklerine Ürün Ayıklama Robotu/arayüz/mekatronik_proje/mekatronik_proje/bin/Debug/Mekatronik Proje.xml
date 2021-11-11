@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mekatronik Proje
+</name>
+</assembly>
+<members>
+<member name="T:arayüz.My.Resources.Resources">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._1_pembe">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._2_sarı">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._3_yesil">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._4_kırmızı">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._5_turuncu">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:arayüz.My.Resources.Resources._6_mavi">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+</members>
+</doc>

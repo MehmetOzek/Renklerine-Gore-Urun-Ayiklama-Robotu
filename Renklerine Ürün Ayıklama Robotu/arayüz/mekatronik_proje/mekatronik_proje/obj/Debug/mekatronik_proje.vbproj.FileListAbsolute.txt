@@ -1,0 +1,11 @@
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\bin\Debug\Mekatronik Proje.exe
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\bin\Debug\Mekatronik Proje.pdb
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\bin\Debug\Mekatronik Proje.xml
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\mekatronik_proje.vbprojAssemblyReference.cache
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\arayüz.Form1.resources
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\arayüz.Resources.resources
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\mekatronik_proje.vbproj.GenerateResource.cache
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\mekatronik_proje.vbproj.CoreCompileInputs.cache
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\Mekatronik Proje.exe
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\Mekatronik Proje.xml
+C:\Users\efkar\OneDrive\Masaüstü\ders_notları\mekatronik\proje\arayüz\mekatronik_proje\mekatronik_proje\obj\Debug\Mekatronik Proje.pdb
